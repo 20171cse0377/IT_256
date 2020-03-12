@@ -1,0 +1,28 @@
+<html>
+<head>
+<style>
+div
+{
+text-align:center;
+background-color:grey;
+width:300px;
+height:100px;
+padding:10px 10px;margin:auto;
+}
+a:visited,a:hover,a:active
+{
+text-align:center;
+display:inline;
+color:white;
+word-spacing:20px;
+}
+</style>
+</head>
+<body>
+<div>
+<a href="123">Home</a>
+<a href="123">Contact</a>
+<a href="123">About us</a>
+</div>
+</body>
+</html>
